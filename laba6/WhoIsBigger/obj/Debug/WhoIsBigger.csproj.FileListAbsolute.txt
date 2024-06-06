@@ -1,0 +1,11 @@
+C:\Users\Артур\source\repos\WhoIsBigger\WhoIsBigger\bin\Debug\WhoIsBigger.exe.config
+C:\Users\Артур\source\repos\WhoIsBigger\WhoIsBigger\bin\Debug\WhoIsBigger.exe
+C:\Users\Артур\source\repos\WhoIsBigger\WhoIsBigger\bin\Debug\WhoIsBigger.pdb
+C:\Users\Артур\source\repos\WhoIsBigger\WhoIsBigger\obj\Debug\WhoIsBigger.csproj.AssemblyReference.cache
+C:\Users\Артур\source\repos\WhoIsBigger\WhoIsBigger\obj\Debug\WhoIsBigger.Form1.resources
+C:\Users\Артур\source\repos\WhoIsBigger\WhoIsBigger\obj\Debug\WhoIsBigger.Properties.Resources.resources
+C:\Users\Артур\source\repos\WhoIsBigger\WhoIsBigger\obj\Debug\WhoIsBigger.csproj.GenerateResource.cache
+C:\Users\Артур\source\repos\WhoIsBigger\WhoIsBigger\obj\Debug\WhoIsBigger.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\WhoIsBigger\WhoIsBigger\obj\Debug\WhoIsBigger.exe
+C:\Users\Артур\source\repos\WhoIsBigger\WhoIsBigger\obj\Debug\WhoIsBigger.pdb
+C:\Users\Артур\source\repos\WhoIsBigger\WhoIsBigger\obj\Debug\WhoIsBigger.Form2.resources
